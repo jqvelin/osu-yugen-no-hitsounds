@@ -1,2 +1,2 @@
 # Installation
-Simply download the .osk file and open it
+Download the .osk file and open it
